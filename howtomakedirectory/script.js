@@ -10,7 +10,7 @@ let gameFrame = 0;
 playerImage.src = 'images/shadow_dog.png';
 const staggerFrames = 12;
 
-let playerState = 'fall';
+let playerState = 'run';
 
 
 const spriteAnimations = [];
